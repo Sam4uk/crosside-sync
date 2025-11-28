@@ -1,0 +1,29 @@
+{
+  "recommendations": [
+    "sr-team.vscode-clangd-cmake",
+    "xaver.clang-format",
+    "cschlosser.doxdocgen",
+    "jeanp413.open-remote-ssh",
+    "mjpvs.latex-previewer",
+    "twxs.cmake",
+    "mhutchie.git-graph",
+    "lakshitsomani.best-themes-redefined",
+    "llvm-vs-code-extensions.vscode-clangd",
+    "kylinideteam.kylin-clangd",
+    "ms-vscode.cmake-tools",
+    "file-icons.file-icons",
+    "mcu-debug.debug-tracker-vscode",
+    "bmd.stm32-for-vscode",
+    "marus25.cortex-debug",
+    "mcu-debug.peripheral-viewer",
+    "ms-vscode.hexeditor",
+    "redhat.vscode-yaml",
+    "azat-io.eyecons",
+    "mcu-debug.memory-view",
+    "mcu-debug.rtos-views",
+    "pkief.material-icon-theme",
+    "kylinideteam.cmake-intellisence",
+    "tombi-toml.tombi",
+    "octohash.crosside-sync"
+  ]
+}
