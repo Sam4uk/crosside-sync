@@ -24,6 +24,9 @@
     "pkief.material-icon-theme",
     "kylinideteam.cmake-intellisence",
     "tombi-toml.tombi",
-    "octohash.crosside-sync"
+    "octohash.crosside-sync",
+    "agani-ds.avr-utils",
+    "undefined_publisher.avr-maker-sam4uk",
+    "dbaeumer.vscode-eslint"
   ]
 }

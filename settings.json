@@ -25,6 +25,9 @@
     "diffEditor.ignoreTrimWhitespace": false,
     "clangd.path": "/home/sam4uk/.config/VSCodium/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/21.1.0/clangd_21.1.0/bin/clangd",
     "workbench.iconTheme": "material-icon-theme",
+    "[javascript]": {
+        "editor.defaultFormatter": "xaver.clang-format"
+    },
     "workbench.colorTheme": "Monokai",
     "EIDE.Repository.UseProxy": false,
 }
