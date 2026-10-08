@@ -25,9 +25,19 @@
     "diffEditor.ignoreTrimWhitespace": false,
     "clangd.path": "/home/sam4uk/.config/VSCodium/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/21.1.0/clangd_21.1.0/bin/clangd",
     "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Monokai",
+    "EIDE.Repository.UseProxy": false,
+    "stm32-for-vscode.openOCDPath": false,
+    "stm32-for-vscode.makePath": "/usr/bin/make",
+    "stm32-for-vscode.armToolchainPath": "/opt/st/stm32cubeclt_1.19.0/GNU-tools-for-STM32/bin",
+    "avr-utils.extensionRootPath": "/home/sam4uk/.vscode-oss/extensions/agani-ds.avr-utils-0.3.1-universal/dist",
     "[javascript]": {
         "editor.defaultFormatter": "xaver.clang-format"
     },
-    "workbench.colorTheme": "Monokai",
-    "EIDE.Repository.UseProxy": false,
+    "files.associations": {
+        "*.info": "properties"
+    },
+    "p2p-live-share.userName": "sam4uk",
+    "diffEditor.maxComputationTime": 0,
+    "redhat.telemetry.enabled": true,
 }

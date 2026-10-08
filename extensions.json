@@ -25,8 +25,12 @@
     "kylinideteam.cmake-intellisence",
     "tombi-toml.tombi",
     "octohash.crosside-sync",
-    "agani-ds.avr-utils",
     "undefined_publisher.avr-maker-sam4uk",
-    "dbaeumer.vscode-eslint"
+    "dbaeumer.vscode-eslint",
+    "kermanx.p2p-live-share",
+    "arrrrny.zed-one-theme",
+    "anweber.bluepaint",
+    "sathwikkuncham.perpetuity-theme",
+    "bbenoist.doxygen"
   ]
 }
